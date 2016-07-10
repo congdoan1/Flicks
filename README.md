@@ -32,11 +32,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![Walk-through Video](flicks-walkthrough.gif)
+![Walk-through Video](flicks_walkthrough.gif)
 
 Showing the network error:
 
-![Network Error Video](flicks-network.gif)
+![Network Error Video](flicks_network.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
